@@ -1,4 +1,4 @@
-### LEE SO JUNG 👋
+### HI, I'M LEE SO JUNG 👋
 
 <!--
 **xxoznge/xxoznge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

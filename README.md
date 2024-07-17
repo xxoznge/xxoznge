@@ -1,7 +1,8 @@
 ### HI, I'M SO JUNG 👋
+----
 
 #### Experience
-----
+--
 <!--
 **xxoznge/xxoznge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

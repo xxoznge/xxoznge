@@ -15,8 +15,8 @@
 - @Startup Club at Sangmyung University (24.03~24.08)
 - @[KOFAC x Elice] 2024 Youth Digital Problem-Solving Project: University Student Mentor (24.09~)
 <br/><br/>
-- @Participation in the KIBWA Contest (23.06~23.12)
+- Participation in the KIBWA Contest (23.06~23.12)
   > Awarded Gold Prize<br/>
   > Patent Application Submitted
-- @Participation in the ICT Mentoring Hanium Contest (24.04~)
+- Participation in the ICT Mentoring Hanium Contest (24.04~)
   > Advanced to the Second Round Final

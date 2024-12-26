@@ -21,7 +21,8 @@
   > Gold Prize 🏆<br/>
   > Patent Application Submitted
 - Participation in the ICT Mentoring Hanium Contest (24.04~24.12)
-  > Silver Prize 🏆
+  > Silver Prize 🏆<br/>
   > Patent Application Submitted
 - ACK 2024(Annual Conference of KIPS 2024) (24.10~24.11)
-  > Excellence Prize 🏆 & Paper Presenter 
+  > Excellence Prize 🏆<br/>
+  > Paper Presenter 📢

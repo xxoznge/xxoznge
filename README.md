@@ -1,7 +1,7 @@
 ### HI, I'M SO JUNG 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxoznge&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - Back-End Developer
-- Sungshin Women's University - Information Systems Engineering (2020~2025.02)
+- Sungshin Women's University - Information Systems Engineering (2020.03~2025.02)
 
 #### Experience
 - @UMC(UNIVERSITY MAKEUS CHALLENGE) 4TH Member (23.03~23.08)

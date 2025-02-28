@@ -13,6 +13,7 @@
 <br/><br/>
 - @CloudClub 5TH Member (24.03~24.08)
 - @CloudClub 6TH Member (24.09~25.02)
+- @CloudClub 7TH Member (25.03~25.08)
 <br/><br/>
 - @Startup Club at Sangmyung University (24.03~24.08)
 - @[KOFAC x Elice] 2024 Youth Digital Problem-Solving Project: University Student Mentor (24.09~24.12)

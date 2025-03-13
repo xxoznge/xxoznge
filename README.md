@@ -3,6 +3,13 @@
 - Back-End Developer && Studying Cloud Technologies
 - Sungshin Women's University - Information Systems Engineering (2020.03~2025.02)
 
+#### Skill
+- JAVA, Python
+- SpringBoot, Flask
+- MySQL, MariaDB, PostgreSQL....
+- AWS, Docker, Kubernetes...
+- Linux Server Admin | VMware/KVM Virtualization | Ansible Automation | GNS3 Networking
+
 #### Experience
 - @UMC(UNIVERSITY MAKEUS CHALLENGE) 4TH Member (23.03~23.08)
 - @UMC(UNIVERSITY MAKEUS CHALLENGE) 5TH Organizer & Member (23.09~24.02)

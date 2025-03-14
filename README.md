@@ -9,7 +9,7 @@
 - MySQL, MariaDB, PostgreSQL...
 - AWS, Docker, Kubernetes...
 - Linux Server Admin | VMware/KVM Virtualization | Ansible Automation | GNS3 Networking
-- Certifications: SQLD, ADsP, Microsoft Azure AI-900m-, 빅데이터분석기사, 정보처리기사, Linux Master 1급(~ing)
+- Certifications: SQLD, ADsP, Microsoft Azure AI-900, 빅데이터분석기사, 정보처리기사, Linux Master 1급(~ing)
 
 #### Experience
 - @UMC(UNIVERSITY MAKEUS CHALLENGE) 4TH Member (23.03~23.08)

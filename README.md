@@ -1,6 +1,4 @@
 ### HI, I'M SO JUNG 👋
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/xxoznge&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
 - Back-End Developer && Studying Cloud Technologies
 - Sungshin Women's University - Information Systems Engineering (2020.03~2025.02)
 

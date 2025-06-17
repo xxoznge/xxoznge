@@ -22,7 +22,7 @@
 - @Startup Club at Sangmyung University (24.03~24.08)
 - @[KOFAC x Elice] 2024 Youth Digital Problem-Solving Project: University Student Mentor (24.09~24.12)
 <br/><br/>
-- @AWS CLOUD SCHOOL 9th Trainee (25.02 ~)
+- @AWS CLOUD SCHOOL 9th Trainee (25.02 ~ 25.09.04)
 <br/><br/>
 - UMC 4th DemoDay (23.06~23.09)
   > Grand Prize 🏆

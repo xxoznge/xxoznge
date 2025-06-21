@@ -3,11 +3,12 @@
 - Sungshin Women's University - Information Systems Engineering (2020.03~2025.02)
 
 #### Skill
-- JAVA, Python
+- JAVA, Python, Go
 - SpringBoot, Flask
 - MySQL, MariaDB, PostgreSQL...
 - AWS, Kubernetes, Docker
 - Ansible, Terraform, Packer
+- ArgoCD, Jenkins, GitHub Actions
 
 #### Certificate 
 - 리눅스 마스터 1급 (2025.05)

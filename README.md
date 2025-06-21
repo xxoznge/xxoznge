@@ -11,12 +11,12 @@
 - ArgoCD, Jenkins, GitHub Actions
 
 #### Certificate 
-- 리눅스 마스터 1급 (2025.05)
-- 정보처리기사 (2024.09)
-- 빅데이터분석기사 (2024.07)
-- SQLD (2024.06)
-- ADsP (2024.06)
-- Microsoft AI-900 (2023.07)
+- 리눅스 마스터 1급 (25.05)
+- 정보처리기사 (24.09)
+- 빅데이터분석기사 (24.07)
+- SQLD (24.06)
+- ADsP (24.06)
+- Microsoft AI-900 (23.07)
 
 #### Experience
 - @UMC(UNIVERSITY MAKEUS CHALLENGE) 4TH Member (23.03~23.08)

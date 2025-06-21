@@ -1,6 +1,6 @@
 ### HI, I'M SO JUNG 👋
 - Back-End Developer && Studying Cloud Technologies
-- Sungshin Women's University - Information Systems Engineering (2020.03~2025.02)
+- Sungshin Women's University - Information Systems Engineering (20.03~25.02)
 
 #### Skill
 - JAVA, Python, Go

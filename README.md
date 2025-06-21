@@ -9,6 +9,14 @@
 - AWS, Kubernetes, Docker
 - Ansible, Terraform, Packer
 
+#### Certificate 
+- 리눅스 마스터 1급 (2025.05)
+- 정보처리기사 (2024.09)
+- 빅데이터분석기사 (2024.07)
+- SQLD (2024.06)
+- ADsP (2024.06)
+- Microsoft AI-900 (2023.07)
+
 #### Experience
 - @UMC(UNIVERSITY MAKEUS CHALLENGE) 4TH Member (23.03~23.08)
 - @UMC(UNIVERSITY MAKEUS CHALLENGE) 5TH Organizer (23.09~24.02)

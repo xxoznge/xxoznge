@@ -37,17 +37,17 @@
 
 - Participation in the ICT Mentoring Hanium Contest (24.04~24.12)
   - Silver Prize 🏆<br/>
-  > Patent Application Submitted
+  - Patent Application Submitted
 - ACK 2024(Annual Conference of KIPS 2024) (24.10~24.11)
-  > Excellence Prize 🏆<br/>
-  > Paper Presenter 📢
+  - Excellence Prize 🏆<br/>
+  - Paper Presenter 📢
 - UMC 5th DemoDay (23.12~24.02)
-  > Grand Prize 🏆
+  - Grand Prize 🏆
 - Participation in the KIBWA Contest (23.06~23.12)
-  > Gold Prize 🏆<br/>
-  > Patent Application Submitted
+  - Gold Prize 🏆<br/>
+  - Patent Application Submitted
 - NE(O)RDINARY DemoDay (23.06~23.09)
-  > Excellence Prize 🏆
+  - Excellence Prize 🏆
 - UMC 4th DemoDay (23.06~23.09)
-  > Grand Prize 🏆
+  - Grand Prize 🏆
 

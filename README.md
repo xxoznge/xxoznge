@@ -32,7 +32,6 @@
 - @[KOFAC x Elice] 2024 Youth Digital Problem-Solving Project: University Student Mentor (24.09~24.12)
 <br/><br/>
 - @AWS CLOUD SCHOOL 9th Trainee (25.02 ~ 25.09.04)
-<br/><br/>
 
 #### Award
 

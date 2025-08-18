@@ -11,6 +11,7 @@
 - ArgoCD, Jenkins, GitHub Actions
 
 #### Certificate 
+- AWS Solution Architect Associate (25.08)
 - 리눅스 마스터 1급 (25.05)
 - 정보처리기사 (24.09)
 - 빅데이터분석기사 (24.07)

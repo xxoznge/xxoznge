@@ -1,5 +1,8 @@
 ### HI, I'M SO JUNG 👋
 
+### Work Experience
+- **Hyundai Autoever**, Cloud Platform Engineer (2026.01~)
+
 #### Certificate 
 - AWS Solution Architect Associate (25.08)
 - 리눅스 마스터 1급 (25.05)

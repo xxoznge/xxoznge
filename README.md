@@ -1,6 +1,6 @@
 ### HI, I'M SO JUNG 👋
 
-### Work Experience
+#### Work Experience
 - **Hyundai Autoever**, Cloud Platform Engineer (2026.01~)
 
 #### Certificate 

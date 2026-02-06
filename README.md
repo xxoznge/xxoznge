@@ -36,6 +36,8 @@
 
 #### Award
 
+- AWS Cloud School 9th (25.02~25.09)
+  - Grand Prize 🏆<br/>
 - Participation in the ICT Mentoring Hanium Contest (24.04~24.12)
   - Silver Prize 🏆<br/>
   - Patent Application Submitted

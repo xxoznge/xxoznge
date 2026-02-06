@@ -1,14 +1,4 @@
 ### HI, I'M SO JUNG 👋
-- Back-End Developer && Studying Cloud Technologies
-- Sungshin Women's University - Information Systems Engineering (20.03~25.02)
-
-#### Skill
-- JAVA, Python, Go
-- SpringBoot, Flask
-- MySQL, MariaDB, PostgreSQL...
-- AWS, Kubernetes, Docker
-- Ansible, Terraform, Packer
-- ArgoCD, Jenkins, GitHub Actions
 
 #### Certificate 
 - AWS Solution Architect Associate (25.08)
